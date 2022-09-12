@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace TrilhaApiDesafio.Migrations
 {
-    public partial class CriacaoTabelaTarefa : Migration
+    public partial class CriacaoTabelaCurso : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
